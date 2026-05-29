@@ -1,0 +1,17 @@
+{
+  "name": "nekopoi-api",
+  "version": "1.0.0",
+  "description": "REST API scraper NekoPoi — List, Search, Detail, Stream, Genre, Episodes, Schedule",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer-core": "^19.11.1",
+    "@sparticuz/chromium": "^121.0.0"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
