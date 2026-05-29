@@ -2,7 +2,7 @@
 
 <br/>
 
-<h2>🍑 QrtzNeko API</h2>
+<h2>🐱 QrtzNeko API</h2>
 
 <img src="https://i.postimg.cc/Dy3twC9Z/qrtzneko.gif" width="100%" style="border-radius:24px" alt="qrtzneko" />
 
